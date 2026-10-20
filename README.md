@@ -68,7 +68,7 @@
 |---|---|---|
 | 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com)（商用產品，不開源） |
 | 🏦 **青安 3.0 房貸試算** | 資格、額度、利息補貼、每月還款一次算清楚，資料不離開瀏覽器 | [線上試算](https://larryveryhandsome.github.io/qing-an-3-calculator/) ・ [原始碼](https://github.com/Larryveryhandsome/qing-an-3-calculator) |
-| 🎨 **qicai-paint** | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
+| 🎨 **qicai-paint** | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [線上試用](https://larryveryhandsome.github.io/qicai-paint/) ・ [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
 | 🏪 **tw-shop-staff** | 小店的員工＋股東系統：手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站。10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
 | 🏡 **tw-listing-page** | 房仲物件介紹頁模板：填一個資料檔，就有經紀人首頁、物件頁、投資試算、行情報告 | [線上試用](https://larryveryhandsome.github.io/tw-listing-page/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-page) |
 | 🗓️ **tw-duty-roster** | 自動值班排班表：門市、小店用，規則可調、請假、列印與匯出 Excel | [線上試用](https://larryveryhandsome.github.io/tw-duty-roster/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-duty-roster) |
