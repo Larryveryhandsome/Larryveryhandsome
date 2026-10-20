@@ -37,7 +37,7 @@
 <img src="assets/store-woo.jpg" alt="便當店">
 
 **🍱 便當店（宜蘭泰山店）**<br>
-自己下海開便當店，才知道小店老闆每天被排班、算薪水、對帳追著跑。後來把店裡的打卡算薪、記帳、股東帳務全部寫成系統，現在整理成開源專案 **tw-shop-staff**。
+自己下海開便當店，才知道小店老闆每天被排班、算薪水、對帳追著跑。後來把店裡的打卡算薪、記帳、股東帳務全部寫成系統，現在整理成開源專案 **[tw-shop-staff](https://github.com/Larryveryhandsome/tw-shop-staff)**。
 </td>
 <td width="50%" valign="top">
 <img src="assets/youchao-liming.jpg" alt="有巢黎明">
@@ -69,12 +69,18 @@
 | 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com) ・ [原始碼](https://github.com/Larryveryhandsome/lvit-calc) |
 | 🏦 **青安 3.0 房貸試算** | 資格、額度、利息補貼、每月還款一次算清楚，資料不離開瀏覽器 | [線上試算](https://larryveryhandsome.github.io/qing-an-3-calculator/) ・ [原始碼](https://github.com/Larryveryhandsome/qing-an-3-calculator) |
 | 🎨 **qicai-paint** | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
-| 🏪 **tw-shop-staff** | 小店的員工＋股東系統：手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站。10 種行業實測過 | 即將開源 |
-| 🌐 **網頁作品** | 幫在地店家做的官網示範 | [牙醫](https://larryveryhandsome.github.io/DENTAL-SAMPLE/) ・ [建案](https://larryveryhandsome.github.io/The-Time-of-Silence-SAMPLE/) ・ [動物醫院](https://larryveryhandsome.github.io/SAMPLE-32/) |
+| 🏪 **tw-shop-staff** | 小店的員工＋股東系統：手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站。10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
+| 🏡 **tw-listing-page** | 房仲物件介紹頁模板：填一個資料檔，就有經紀人首頁、物件頁、投資試算、行情報告 | [線上試用](https://larryveryhandsome.github.io/tw-listing-page/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-page) |
+| 🗓️ **tw-duty-roster** | 自動值班排班表：門市、小店用，規則可調、請假、列印與匯出 Excel | [線上試用](https://larryveryhandsome.github.io/tw-duty-roster/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-duty-roster) |
+| 🔎 **tw-listing-lookup** | 售版編號查詢：輸入編號查地址、承辦人，資料放 CSV 或試算表 | [線上試用](https://larryveryhandsome.github.io/tw-listing-lookup/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-lookup) |
+| 🚗 **tw-showing-route** | 集體帶看行程表：自動排出最順的順序，附地圖與 Google 地圖導航 | [線上試用](https://larryveryhandsome.github.io/tw-showing-route/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-showing-route) |
+| ⚡ **tw-submeter-bill** | 分租套房電費計算：依台電帳單或每度單價分攤、公共用電、換表、列印繳費通知單 | [線上試用](https://larryveryhandsome.github.io/tw-submeter-bill/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-submeter-bill) |
+| 📋 **tw-progress-report** | 案場／專案進度彙報：待辦、計畫、客戶追蹤自動遮名，一鍵產生 LINE 文字版 | [線上試用](https://larryveryhandsome.github.io/tw-progress-report/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-progress-report) |
+| 🌐 **網頁作品** | 留白事務所官網＋幫在地店家做的官網示範 | [留白事務所](https://larryveryhandsome.github.io/blank-office-site/) ・ [牙醫](https://larryveryhandsome.github.io/DENTAL-SAMPLE/) ・ [建案](https://larryveryhandsome.github.io/The-Time-of-Silence-SAMPLE/) ・ [動物醫院](https://larryveryhandsome.github.io/SAMPLE-32/) |
 
 ### 🚧 下一批要開源的
 
-- [ ] **tw-shop-staff**：門市員工＋股東系統（快好了）
+- [x] **tw-shop-staff**：門市員工＋股東系統（[已開源](https://github.com/Larryveryhandsome/tw-shop-staff)）
 - [ ] **tw-dispatch-kit**：到府服務接單派工
 - [ ] **tw-office-hub**：業務型辦公室中控台
 - [ ] **tw-social-radar**：品牌社群雷達（只產草稿，一律人工發）
