@@ -66,7 +66,7 @@
 
 | 專案 | 一句話 | 連結 |
 |---|---|---|
-| 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com) ・ [原始碼](https://github.com/Larryveryhandsome/lvit-calc) |
+| 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com)（商用產品，不開源） |
 | 🏦 **青安 3.0 房貸試算** | 資格、額度、利息補貼、每月還款一次算清楚，資料不離開瀏覽器 | [線上試算](https://larryveryhandsome.github.io/qing-an-3-calculator/) ・ [原始碼](https://github.com/Larryveryhandsome/qing-an-3-calculator) |
 | 🎨 **qicai-paint** | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
 | 🏪 **tw-shop-staff** | 小店的員工＋股東系統：手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站。10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
