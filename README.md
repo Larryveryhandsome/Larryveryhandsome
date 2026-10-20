@@ -76,7 +76,7 @@
 | 🚗 **tw-showing-route** | 集體帶看行程表：自動排出最順的順序，附地圖與 Google 地圖導航 | [線上試用](https://larryveryhandsome.github.io/tw-showing-route/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-showing-route) |
 | ⚡ **tw-submeter-bill** | 分租套房電費計算：依台電帳單或每度單價分攤、公共用電、換表、列印繳費通知單 | [線上試用](https://larryveryhandsome.github.io/tw-submeter-bill/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-submeter-bill) |
 | 📋 **tw-progress-report** | 案場／專案進度彙報：待辦、計畫、客戶追蹤自動遮名，一鍵產生 LINE 文字版 | [線上試用](https://larryveryhandsome.github.io/tw-progress-report/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-progress-report) |
-| 📝 **tw-property-sheet** | 物調表自動產生器：地址查公開資料、上傳謄本自動填坪數樓層屋齡，一鍵產生 A4 Excel | [原始碼](https://github.com/Larryveryhandsome/tw-property-sheet) |
+| 📝 **tw-property-sheet** | 物調表自動產生器：上傳土地／建物謄本自動填、上架前風險提示、地號查地籍圖，一鍵產生 A4 Excel | [原始碼](https://github.com/Larryveryhandsome/tw-property-sheet) |
 | 🗺️ **tw-lvr-map** | 實價登錄地圖：政府開放資料畫成地圖，篩選、單價中位數、匯出 CSV | [線上試用](https://larryveryhandsome.github.io/tw-lvr-map/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-lvr-map) |
 | 💬 **tw-line-faq-bot** | 小店 LINE 客服：FAQ 自動回，答不出來推按鈕卡給老闆點一下就回，可選 Claude 補答 | [原始碼](https://github.com/Larryveryhandsome/tw-line-faq-bot) |
 | 🛵 **tw-gig-dispatch** | 地推／外包夥伴派工：依區域派店、手機回報、防灌水核實、每月獎金結算 | [原始碼](https://github.com/Larryveryhandsome/tw-gig-dispatch) |
