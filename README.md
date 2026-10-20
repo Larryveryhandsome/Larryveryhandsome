@@ -21,43 +21,55 @@
 
 | | |
 |---|---|
-| 🧑‍💼 **職業** | 房仲店長（有巢氏房屋 宜蘭黎明國小加盟店） |
-| 🍱 **副職業** | 便當店老闆、留白事務所總經理、自學工程師 |
+| 🧑‍💼 **職業** | 創業者：房仲店長（有巢氏房屋 宜蘭黎明國小加盟店）、悟饕便當泰山店老闆、留白事務所總經理 |
+| 💻 **技能** | 自學工程師：店裡用的系統都自己寫 |
 | 🧠 **天賦** | 看到重複的事就忍不住寫成程式 |
 | 🏍️ **坐騎** | 重機 |
 | 🐈 **寵物** | 虎斑貓（實際上是牠養我） |
 | 🗺️ **主城** | 宜蘭 |
 | 💬 **口頭禪** | 「這個可以自動化吧？」 |
 
-## 🗺️ 我開的副本
+## 🤝 我的事業（歡迎合作）
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="assets/store-woo.jpg" alt="便當店">
-
-**🍱 便當店（宜蘭泰山店）**<br>
-自己下海開便當店，才知道小店老闆每天被排班、算薪水、對帳追著跑。後來把店裡的打卡算薪、記帳、股東帳務全部寫成系統，現在整理成開源專案 **[tw-shop-staff](https://github.com/Larryveryhandsome/tw-shop-staff)**。
-</td>
-<td width="50%" valign="top">
 <img src="assets/youchao-liming.jpg" alt="有巢黎明">
 
-**🏠 有巢黎明（房仲本業）**<br>
-有巢氏房屋 宜蘭黎明國小加盟店。家所在，擇你愛。客戶、物件、行程全部用自己寫的 LINE 機器人加中控台管理。
+**🏠 有巢氏房屋 宜蘭黎明國小加盟店**<br>
+📣 **招募店長、股東合作中！**<br>
+想在宜蘭做房仲、想帶店，或想一起投資經營的夥伴，歡迎來聊。店裡的客戶、物件、行程都有自己寫的 LINE 機器人＋中控台幫忙，不用一個人扛所有雜事。<br>
+👉 來信：[larry87tw@gmail.com](mailto:larry87tw@gmail.com)
+</td>
+<td width="50%" valign="top">
+<img src="assets/heson.jpg" alt="HESON" width="160">
+
+**🧹 HESON 赫頌家事管理｜全台清潔服務**<br>
+居家清潔（單次／定期）、大掃除與細清、裝潢後細清、搬家前後清潔、店面／辦公室清潔、垃圾清收，冰箱、窗簾、冷氣濾網、抽油煙機、除塵蟎、收納整理等都能加購。<br>
+拍照就能線上估價，正式報價單、清潔前後照片、LINE 一對一通知，夥伴都經過面試與良民證查核。<br>
+👉 [線上估價／預約](https://heson.zengzhisui.com/) ・ 官方 LINE：**@138hvfmq**
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="assets/heson.jpg" alt="HESON" width="160">
+<img src="assets/store-woo.jpg" alt="悟饕泰山店">
 
-**🧹 HESON 赫頌家事管理**<br>
-家裡的另一個事業。我幫它寫了整套「線上估價 → 接單 → 派工 → 結算」系統，之後會整理成 **tw-dispatch-kit** 開源。
+**🍱 悟饕便當 泰山店**<br>
+🛵 **宜蘭市 3 顆以上就外送！** 公司訂餐、會議、團訂都可以。<br>
+店裡的打卡算薪、記帳、股東帳務全部自己寫成系統，現在整理成開源專案 **[tw-shop-staff](https://github.com/Larryveryhandsome/tw-shop-staff)**。
 </td>
 <td valign="top">
-<img src="assets/room.jpg" alt="房間佈置">
+<img src="assets/room.jpg" alt="包租代管物件">
 
-**🛋️ 留白事務所**<br>
-網頁設計、遠端房仲助理、AI 落地。幫在地店家做網站，也幫房仲把雜事交給 AI。
+**🛋️ 包租代管**<br>
+房東把房子交給我們打理，房子佈置得溫馨好住，讓租客住得安心、房東省心。服務範圍與費用來信聊。<br>
+👉 來信：[larry87tw@gmail.com](mailto:larry87tw@gmail.com)
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**💡 留白事務所**　網頁設計、遠端房仲助理、AI 落地。幫在地店家做網站，也幫房仲把雜事交給 AI。下面的開源工具都可以客製化 → LINE **@812ibtir**（[加好友](https://lin.ee/pdYGARu)）
 </td>
 </tr>
 </table>
@@ -66,7 +78,7 @@
 
 | 專案 | 一句話 | 連結 |
 |---|---|---|
-| 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com)（商用產品，不開源） |
+| 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com) |
 | 🏦 **青安 3.0 房貸試算** | 資格、額度、利息補貼、每月還款一次算清楚，資料不離開瀏覽器 | [線上試算](https://larryveryhandsome.github.io/qing-an-3-calculator/) ・ [原始碼](https://github.com/Larryveryhandsome/qing-an-3-calculator) |
 | 🎨 **qicai-paint** | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [線上試用](https://larryveryhandsome.github.io/qicai-paint/) ・ [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
 | 🏪 **tw-shop-staff** | 小店的員工＋股東系統：手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站。10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
@@ -88,7 +100,7 @@
 ### 🚧 下一批要開源的
 
 - [x] **tw-shop-staff**：門市員工＋股東系統（[已開源](https://github.com/Larryveryhandsome/tw-shop-staff)）
-- [ ] **tw-dispatch-kit**：到府服務接單派工
+- [ ] **tw-dispatch-kit**：到府服務接單派工（赫頌家事管理在用的那套）
 - [ ] **tw-office-hub**：業務型辦公室中控台
 - [ ] **tw-social-radar**：品牌社群雷達（只產草稿，一律人工發）
 
@@ -109,7 +121,7 @@
 - [ ] 🏍️ **杜卡迪 Diavel V4**
 - [x] 🐈 **養貓**（已達成）
 
-靠賣房子、做系統、開便當店一步一步來。哪天打勾了，會回來更新這一頁。
+靠賣房子、做系統、經營悟饕和赫頌一步一步來。哪天打勾了，會回來更新這一頁。
 
 <br clear="right">
 
@@ -130,6 +142,10 @@
 
 - 📧 **Email**：[larry87tw@gmail.com](mailto:larry87tw@gmail.com)
 - 🐛 用我的開源專案遇到問題 → 到該專案開 Issue
-- 🏠 想在宜蘭買房、賣房 → 有巢氏房屋 宜蘭黎明國小店
+- 🏠 想在宜蘭買房、賣房，或想**當店長／股東合作** → 有巢氏房屋 宜蘭黎明國小店
+- 🧹 清潔服務 → 赫頌家事管理 LINE **@138hvfmq**
+- 🍱 宜蘭市訂便當（3 顆以上外送）→ 悟饕便當 泰山店
+- 🛋️ 房子想給人包租代管 → 來信聊
+- 🛠️ 開源工具客製化 → LINE **@812ibtir**
 
 <div align="center"><img src="assets/namecard.jpg" width="420" alt="名片"></div>
