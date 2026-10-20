@@ -76,6 +76,13 @@
 | 🚗 **tw-showing-route** | 集體帶看行程表：自動排出最順的順序，附地圖與 Google 地圖導航 | [線上試用](https://larryveryhandsome.github.io/tw-showing-route/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-showing-route) |
 | ⚡ **tw-submeter-bill** | 分租套房電費計算：依台電帳單或每度單價分攤、公共用電、換表、列印繳費通知單 | [線上試用](https://larryveryhandsome.github.io/tw-submeter-bill/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-submeter-bill) |
 | 📋 **tw-progress-report** | 案場／專案進度彙報：待辦、計畫、客戶追蹤自動遮名，一鍵產生 LINE 文字版 | [線上試用](https://larryveryhandsome.github.io/tw-progress-report/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-progress-report) |
+| 📝 **tw-property-sheet** | 物調表自動產生器：地址查公開資料、上傳謄本自動填坪數樓層屋齡，一鍵產生 A4 Excel | [原始碼](https://github.com/Larryveryhandsome/tw-property-sheet) |
+| 🗺️ **tw-lvr-map** | 實價登錄地圖：政府開放資料畫成地圖，篩選、單價中位數、匯出 CSV | [線上試用](https://larryveryhandsome.github.io/tw-lvr-map/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-lvr-map) |
+| 💬 **tw-line-faq-bot** | 小店 LINE 客服：FAQ 自動回，答不出來推按鈕卡給老闆點一下就回，可選 Claude 補答 | [原始碼](https://github.com/Larryveryhandsome/tw-line-faq-bot) |
+| 🛵 **tw-gig-dispatch** | 地推／外包夥伴派工：依區域派店、手機回報、防灌水核實、每月獎金結算 | [原始碼](https://github.com/Larryveryhandsome/tw-gig-dispatch) |
+| 📡 **tw-local-needs** | 在地需求雷達：地方生活需求提交、去識別化公開、後台媒合在地服務者 | [線上試用](https://larryveryhandsome.github.io/tw-local-needs/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-local-needs) |
+| 🩺 **tw-health-monitor** | 自架服務每日健康巡檢：純唯讀，服務停了、DB 膨脹、磁碟快滿才通知 | [原始碼](https://github.com/Larryveryhandsome/tw-health-monitor) |
+| 📄 **tw-pdf2jpg** | PDF 轉 JPG／PNG：全部在瀏覽器處理，合約謄本不用丟到別人網站 | [線上使用](https://larryveryhandsome.github.io/tw-pdf2jpg/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-pdf2jpg) |
 | 🌐 **網頁作品** | 留白事務所官網＋幫在地店家做的官網示範 | [留白事務所](https://larryveryhandsome.github.io/blank-office-site/) ・ [牙醫](https://larryveryhandsome.github.io/DENTAL-SAMPLE/) ・ [建案](https://larryveryhandsome.github.io/The-Time-of-Silence-SAMPLE/) ・ [動物醫院](https://larryveryhandsome.github.io/SAMPLE-32/) |
 
 ### 🚧 下一批要開源的
