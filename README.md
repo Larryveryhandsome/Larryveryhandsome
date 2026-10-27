@@ -11,6 +11,7 @@
 <a href="mailto:larry87tw@gmail.com"><img src="https://img.shields.io/badge/Gmail-larry87tw%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Gmail"></a>
 <img src="https://img.shields.io/badge/%E5%9F%BA%E5%9C%B0-%E5%AE%9C%E8%98%AD-16A34A" alt="基地：宜蘭">
 <img src="https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F-%E5%85%A8%E9%9D%A0%E8%87%AA%E5%AD%B8-F97316" alt="程式：全靠自學">
+<img src="https://img.shields.io/badge/%E4%B8%BB%E5%AD%90-Apple-8B5CF6" alt="主子：Apple">
 
 </div>
 
@@ -24,7 +25,7 @@
 | 💻 **技能** | 自學工程師：店裡用的系統都自己寫 |
 | 🧠 **天賦** | 看到重複的事就忍不住寫成程式 |
 | 🏍️ **坐騎** | 重機 |
-| 🍎 **信仰** | Apple 全家桶 |
+| 🐈 **主子** | Apple（虎斑貓；我負責賺罐罐） |
 | 🗺️ **主城** | 宜蘭 |
 | 💬 **口頭禪** | 「這個可以自動化吧？」 |
 
@@ -146,10 +147,20 @@
 - [ ] 🏎️ **保時捷 911 Carrera**（目前進度：已經站在展示中心門口拍照）
 - [ ] ⌚ **勞力士 Daytona 玫瑰金**
 - [ ] 🏍️ **杜卡迪 Diavel V4**
+- [x] 🐈 **被主子 Apple 收編**（已達成）
 
 靠賣房子、做系統、經營悟饕和赫頌一步一步來。哪天打勾了，會回來更新這一頁。
 
 <br clear="right">
+
+## 🐈 本帳號主子：Apple
+
+<p>
+<img src="assets/cat1.jpg" width="240" alt="Apple">
+<img src="assets/cat2.jpg" width="240" alt="Apple">
+</p>
+
+不會寫程式，但很會躺在鍵盤上幫忙 commit。這個帳號真正的老闆。
 
 ## 🛠️ 裝備
 
