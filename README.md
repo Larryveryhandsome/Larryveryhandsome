@@ -11,7 +11,6 @@
 <a href="mailto:larry87tw@gmail.com"><img src="https://img.shields.io/badge/Gmail-larry87tw%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Gmail"></a>
 <img src="https://img.shields.io/badge/%E5%9F%BA%E5%9C%B0-%E5%AE%9C%E8%98%AD-16A34A" alt="基地：宜蘭">
 <img src="https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F-%E5%85%A8%E9%9D%A0%E8%87%AA%E5%AD%B8-F97316" alt="程式：全靠自學">
-<img src="https://img.shields.io/badge/%E8%B2%93-%E6%9C%89-8B5CF6" alt="貓：有">
 
 </div>
 
@@ -25,7 +24,7 @@
 | 💻 **技能** | 自學工程師：店裡用的系統都自己寫 |
 | 🧠 **天賦** | 看到重複的事就忍不住寫成程式 |
 | 🏍️ **坐騎** | 重機 |
-| 🐈 **寵物** | 虎斑貓（實際上是牠養我） |
+| 🍎 **信仰** | Apple 全家桶 |
 | 🗺️ **主城** | 宜蘭 |
 | 💬 **口頭禪** | 「這個可以自動化吧？」 |
 
@@ -76,38 +75,60 @@
 
 ## 🔧 我做的東西
 
-| 專案 | 一句話 | 連結 |
+全部都先在自己的店裡用過，再整理成任何人都能用的開源版本（不含任何店家或客戶資料）。需要改成你們的版本 → LINE **@812ibtir**
+
+### 🏢 給店家用的營運系統
+
+| 工具 | 解決什麼問題 | 連結 |
 |---|---|---|
-| 🧮 **土增稅神器** | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com) |
-| 🏦 **青安 3.0 房貸試算** | 資格、額度、利息補貼、每月還款一次算清楚，資料不離開瀏覽器 | [線上試算](https://larryveryhandsome.github.io/qing-an-3-calculator/) ・ [原始碼](https://github.com/Larryveryhandsome/qing-an-3-calculator) |
-| 🎨 **qicai-paint** | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [線上試用](https://larryveryhandsome.github.io/qicai-paint/) ・ [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
-| 🏪 **tw-shop-staff** | 小店的員工＋股東系統：手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站。10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
-| 🏡 **tw-listing-page** | 房仲物件介紹頁模板：填一個資料檔，就有經紀人首頁、物件頁、投資試算、行情報告 | [線上試用](https://larryveryhandsome.github.io/tw-listing-page/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-page) |
-| 🗓️ **tw-duty-roster** | 自動值班排班表：門市、小店用，規則可調、請假、列印與匯出 Excel | [線上試用](https://larryveryhandsome.github.io/tw-duty-roster/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-duty-roster) |
-| 🔎 **tw-listing-lookup** | 售版編號查詢：輸入編號查地址、承辦人，資料放 CSV 或試算表 | [線上試用](https://larryveryhandsome.github.io/tw-listing-lookup/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-lookup) |
-| 🚗 **tw-showing-route** | 集體帶看行程表：自動排出最順的順序，附地圖與 Google 地圖導航 | [線上試用](https://larryveryhandsome.github.io/tw-showing-route/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-showing-route) |
-| ⚡ **tw-submeter-bill** | 分租套房電費計算：依台電帳單或每度單價分攤、公共用電、換表、列印繳費通知單 | [線上試用](https://larryveryhandsome.github.io/tw-submeter-bill/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-submeter-bill) |
-| 📋 **tw-progress-report** | 案場／專案進度彙報：待辦、計畫、客戶追蹤自動遮名，一鍵產生 LINE 文字版 | [線上試用](https://larryveryhandsome.github.io/tw-progress-report/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-progress-report) |
-| 📝 **tw-property-sheet** | 物調表自動產生器：上傳土地／建物謄本自動填、上架前風險提示、地號查地籍圖，一鍵產生 A4 Excel | [原始碼](https://github.com/Larryveryhandsome/tw-property-sheet) |
-| 🗺️ **tw-lvr-map** | 實價登錄地圖：政府開放資料畫成地圖，篩選、單價中位數、匯出 CSV | [線上試用](https://larryveryhandsome.github.io/tw-lvr-map/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-lvr-map) |
-| 💬 **tw-line-faq-bot** | 小店 LINE 客服：FAQ 自動回，答不出來推按鈕卡給老闆點一下就回，可選 Claude 補答 | [原始碼](https://github.com/Larryveryhandsome/tw-line-faq-bot) |
-| 🛵 **tw-gig-dispatch** | 地推／外包夥伴派工：依區域派店、手機回報、防灌水核實、每月獎金結算 | [原始碼](https://github.com/Larryveryhandsome/tw-gig-dispatch) |
-| 📡 **tw-local-needs** | 在地需求雷達：地方生活需求提交、去識別化公開、後台媒合在地服務者 | [線上試用](https://larryveryhandsome.github.io/tw-local-needs/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-local-needs) |
-| 🩺 **tw-health-monitor** | 自架服務每日健康巡檢：純唯讀，服務停了、DB 膨脹、磁碟快滿才通知 | [原始碼](https://github.com/Larryveryhandsome/tw-health-monitor) |
-| 📄 **tw-pdf2jpg** | PDF 轉 JPG／PNG：全部在瀏覽器處理，合約謄本不用丟到別人網站 | [線上使用](https://larryveryhandsome.github.io/tw-pdf2jpg/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-pdf2jpg) |
-| ✅ **tw-realestate-checklists** | 不動產檢查表工具箱：預售屋契約逐條檢查、農舍興建資格自我檢查、物件介紹四大性質工作表 | [線上使用](https://larryveryhandsome.github.io/tw-realestate-checklists/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-realestate-checklists) |
-| 🍽️ **tw-menu-picker** | 今天吃什麼？隨機選餐器：換成你的菜單、預算上限、過敏食材、團購訂餐 | [線上使用](https://larryveryhandsome.github.io/tw-menu-picker/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-menu-picker) |
-| ⏱️ **tw-focus-clock** | 專注時鐘：全螢幕防休眠、專注計時、今日三件事、每日統計，可離線、可加到手機主畫面 | [線上使用](https://larryveryhandsome.github.io/tw-focus-clock/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-focus-clock) |
-| 🏠 **rea-kit 房仲神器** | 房仲自動化工具組：LINE 建客人、買方需求每天配新物件、社團海巡、行情概況；點選＋輸入的設定精靈幫你串好 | [原始碼](https://github.com/Larryveryhandsome/rea-kit) |
-| 🛰️ **tw-social-radar** | 品牌社群雷達：巡邏 Threads 上的相關貼文、產生回覆草稿，一律人工審核才發 | [原始碼](https://github.com/Larryveryhandsome/tw-social-radar) |
+| 🏪 **店家營運中樞（通用版）**<br><sub>`tw-service-ops`</sub> | 預約制、派人服務的店都能用：客人線上選項目與時段、自動報價、派人、手機打卡回報、帳單與人員薪資一鍵結算 | [免登入試玩](https://biz.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-service-ops) |
+| 🧹 **到府清潔接單派工**<br><sub>`tw-dispatch-kit`</sub> | 自家清潔團隊每天在用的那套：線上估價、排班派工、清潔前後照片、月結對帳 | [免登入試玩](https://clean.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-dispatch-kit) |
+| 🏋️ **健身房會員關係系統**<br><sub>`tw-gym-members`</sub> | 教練請假自動找代課、只通知常上那堂課的會員；久沒來的會員自動關懷；器材報修 | [線上試玩](https://fitness.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-gym-members) |
+| 👥 **員工＋股東系統**<br><sub>`tw-shop-staff`</sub> | 小店手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站，10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
+| 💬 **小店 LINE 客服**<br><sub>`tw-line-faq-bot`</sub> | FAQ 自動回，答不出來推按鈕卡給老闆點一下就回，可選 Claude 補答 | [原始碼](https://github.com/Larryveryhandsome/tw-line-faq-bot) |
+| 🛰️ **品牌社群雷達**<br><sub>`tw-social-radar`</sub> | 巡邏 Threads 上的相關貼文、產生回覆草稿，一律人工審核才發 | [原始碼](https://github.com/Larryveryhandsome/tw-social-radar) |
+| 🛵 **外包夥伴派工**<br><sub>`tw-gig-dispatch`</sub> | 依區域派店、手機回報、防灌水核實、每月獎金結算 | [原始碼](https://github.com/Larryveryhandsome/tw-gig-dispatch) |
+| 🗓️ **值班排班表**<br><sub>`tw-duty-roster`</sub> | 門市、小店自動排班：規則可調、請假、列印與匯出 Excel | [線上試用](https://larryveryhandsome.github.io/tw-duty-roster/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-duty-roster) |
+| 🩺 **服務健康巡檢**<br><sub>`tw-health-monitor`</sub> | 自架服務每日巡檢：純唯讀，服務停了、資料庫膨脹、磁碟快滿才通知 | [原始碼](https://github.com/Larryveryhandsome/tw-health-monitor) |
+
+### 🏠 房仲／不動產
+
+| 工具 | 解決什麼問題 | 連結 |
+|---|---|---|
+| 🧮 **土增稅神器**<br><sub>`商用產品`</sub> | 輸入地號就能算土地增值稅，給房仲和代書用（App＋網頁版） | [calc.zengzhisui.com](https://calc.zengzhisui.com) |
+| 🏠 **房仲自動化神器**<br><sub>`rea-kit`</sub> | 房仲的 AI 特助：LINE 建客人、買方需求每天配新物件、社團海巡、行情概況；點選＋輸入的設定精靈幫你串好 | [原始碼](https://github.com/Larryveryhandsome/rea-kit) |
+| 📝 **物調表產生器**<br><sub>`tw-property-sheet`</sub> | 上傳土地／建物謄本自動填、上架前風險提示、地號查地籍圖，一鍵產生 A4 Excel | [原始碼](https://github.com/Larryveryhandsome/tw-property-sheet) |
+| 🏡 **物件介紹頁模板**<br><sub>`tw-listing-page`</sub> | 填一個資料檔，就有經紀人首頁、物件頁、投資試算、行情報告 | [線上試用](https://larryveryhandsome.github.io/tw-listing-page/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-page) |
+| 🗺️ **實價登錄地圖**<br><sub>`tw-lvr-map`</sub> | 政府開放資料畫成地圖：篩選、單價中位數、匯出 CSV | [線上試用](https://larryveryhandsome.github.io/tw-lvr-map/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-lvr-map) |
+| 🚗 **集體帶看行程表**<br><sub>`tw-showing-route`</sub> | 自動排出最順的帶看順序，附地圖與 Google 地圖導航 | [線上試用](https://larryveryhandsome.github.io/tw-showing-route/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-showing-route) |
+| 🔎 **售版編號查詢**<br><sub>`tw-listing-lookup`</sub> | 輸入編號查地址、承辦人，資料放 CSV 或試算表 | [線上試用](https://larryveryhandsome.github.io/tw-listing-lookup/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-listing-lookup) |
+| ✅ **不動產檢查表工具箱**<br><sub>`tw-realestate-checklists`</sub> | 預售屋契約逐條檢查、農舍興建資格自我檢查、物件四大性質工作表 | [線上使用](https://larryveryhandsome.github.io/tw-realestate-checklists/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-realestate-checklists) |
+| 🏦 **青安 3.0 房貸試算**<br><sub>`qing-an-3-calculator`</sub> | 資格、額度、利息補貼、每月還款一次算清楚，資料不離開瀏覽器 | [線上試算](https://larryveryhandsome.github.io/qing-an-3-calculator/) ・ [原始碼](https://github.com/Larryveryhandsome/qing-an-3-calculator) |
+| ⚡ **分租套房電費計算**<br><sub>`tw-submeter-bill`</sub> | 包租代管用：依台電帳單或每度單價分攤、公共用電、換表、列印繳費通知單 | [線上試用](https://larryveryhandsome.github.io/tw-submeter-bill/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-submeter-bill) |
+
+### 🧰 通用小工具
+
+| 工具 | 解決什麼問題 | 連結 |
+|---|---|---|
+| 🎨 **油漆色號對照**<br><sub>`qicai-paint`</sub> | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [線上試用](https://larryveryhandsome.github.io/qicai-paint/) ・ [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
+| 📋 **進度彙報產生器**<br><sub>`tw-progress-report`</sub> | 待辦、計畫、客戶追蹤自動遮名，一鍵產生 LINE 文字版 | [線上試用](https://larryveryhandsome.github.io/tw-progress-report/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-progress-report) |
+| 📄 **PDF 轉圖片**<br><sub>`tw-pdf2jpg`</sub> | 全部在瀏覽器處理，合約謄本不用丟到別人網站 | [線上使用](https://larryveryhandsome.github.io/tw-pdf2jpg/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-pdf2jpg) |
+| 📡 **在地需求雷達**<br><sub>`tw-local-needs`</sub> | 地方生活需求提交、去識別化公開、後台媒合在地服務者 | [線上試用](https://larryveryhandsome.github.io/tw-local-needs/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-local-needs) |
+| ⏱️ **專注時鐘**<br><sub>`tw-focus-clock`</sub> | 全螢幕防休眠、專注計時、今日三件事、每日統計，可離線 | [線上使用](https://larryveryhandsome.github.io/tw-focus-clock/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-focus-clock) |
+| 🍽️ **今天吃什麼**<br><sub>`tw-menu-picker`</sub> | 隨機選餐器：換成你的菜單、預算上限、過敏食材、團購訂餐 | [線上使用](https://larryveryhandsome.github.io/tw-menu-picker/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-menu-picker) |
+
+### 🌐 網頁作品
+
+| | | |
+|---|---|---|
 | 🌐 **網頁作品** | 留白事務所官網＋幫在地店家做的官網示範 | [留白事務所](https://larryveryhandsome.github.io/blank-office-site/) ・ [牙醫](https://larryveryhandsome.github.io/DENTAL-SAMPLE/) ・ [建案](https://larryveryhandsome.github.io/The-Time-of-Silence-SAMPLE/) |
 
 ### 🚧 下一批要開源的
 
-- [x] **tw-shop-staff**：門市員工＋股東系統（[已開源](https://github.com/Larryveryhandsome/tw-shop-staff)）
-- [ ] **tw-dispatch-kit**：到府服務接單派工（赫頌家事管理在用的那套）
-- [ ] **tw-office-hub**：業務型辦公室中控台
-- [x] **tw-social-radar**：品牌社群雷達（只產草稿，一律人工發）（[已開源](https://github.com/Larryveryhandsome/tw-social-radar)）
+- [x] **員工＋股東系統** `tw-shop-staff`（[已開源](https://github.com/Larryveryhandsome/tw-shop-staff)）
+- [x] **到府服務接單派工** `tw-dispatch-kit`（[已開源](https://github.com/Larryveryhandsome/tw-dispatch-kit)）
+- [x] **品牌社群雷達** `tw-social-radar`（[已開源](https://github.com/Larryveryhandsome/tw-social-radar)）
+- [ ] **業務型辦公室中控台** `tw-office-hub`
 
 ## 🧠 做事方法（正經版）
 
@@ -124,20 +145,10 @@
 - [ ] 🏎️ **保時捷 911 Carrera**（目前進度：已經站在展示中心門口拍照）
 - [ ] ⌚ **勞力士 Daytona 玫瑰金**
 - [ ] 🏍️ **杜卡迪 Diavel V4**
-- [x] 🐈 **養貓**（已達成）
 
 靠賣房子、做系統、經營悟饕和赫頌一步一步來。哪天打勾了，會回來更新這一頁。
 
 <br clear="right">
-
-## 🐈 本帳號吉祥物
-
-<p>
-<img src="assets/cat1.jpg" width="240" alt="虎斑貓">
-<img src="assets/cat2.jpg" width="240" alt="虎斑貓">
-</p>
-
-不會寫程式，但很會躺在鍵盤上幫忙 commit。
 
 ## 🛠️ 裝備
 
