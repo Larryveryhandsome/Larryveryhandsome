@@ -8,7 +8,7 @@
 
 **宜蘭最不正經、但很會做生意的房仲店長**
 
-<a href="mailto:larry87tw@gmail.com"><img src="https://img.shields.io/badge/Gmail-larry87tw%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://lin.ee/pdYGARu"><img src="https://img.shields.io/badge/LINE-%40812ibtir-06C755?logo=line&logoColor=white" alt="LINE @812ibtir"></a>
 <img src="https://img.shields.io/badge/%E5%9F%BA%E5%9C%B0-%E5%AE%9C%E8%98%AD-16A34A" alt="基地：宜蘭">
 <img src="https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F-%E5%85%A8%E9%9D%A0%E8%87%AA%E5%AD%B8-F97316" alt="程式：全靠自學">
 <img src="https://img.shields.io/badge/%E4%B8%BB%E5%AD%90-Apple-8B5CF6" alt="主子：Apple">
@@ -39,7 +39,7 @@
 **🏠 有巢氏房屋 宜蘭黎明國小加盟店**<br>
 📣 **招募店長、股東合作中！**<br>
 想在宜蘭做房仲、想帶店，或想一起投資經營的夥伴，歡迎來聊。店裡的客戶、物件、行程都有自己寫的 LINE 機器人＋中控台幫忙，不用一個人扛所有雜事。<br>
-👉 來信：[larry87tw@gmail.com](mailto:larry87tw@gmail.com)
+👉 LINE：[**@812ibtir**](https://lin.ee/pdYGARu)
 </td>
 <td width="50%" valign="top">
 <img src="assets/heson.jpg" alt="HESON" width="160">
@@ -62,8 +62,8 @@
 <img src="assets/room.jpg" alt="包租代管物件">
 
 **🛋️ 包租代管**<br>
-房東把房子交給我們打理，房子佈置得溫馨好住，讓租客住得安心、房東省心。服務範圍與費用來信聊。<br>
-👉 來信：[larry87tw@gmail.com](mailto:larry87tw@gmail.com)
+房東把房子交給我們打理，房子佈置得溫馨好住，讓租客住得安心、房東省心。服務範圍與費用 LINE 聊。<br>
+👉 LINE：[**@812ibtir**](https://lin.ee/pdYGARu)
 </td>
 </tr>
 <tr>
@@ -168,12 +168,12 @@
 
 ## 🤝 找我
 
-- 📧 **Email**：[larry87tw@gmail.com](mailto:larry87tw@gmail.com)
+- 💬 **LINE**：[**@812ibtir**](https://lin.ee/pdYGARu)（留白事務所）
 - 🐛 用我的開源專案遇到問題 → 到該專案開 Issue
 - 🏠 想在宜蘭買房、賣房，或想**當店長／股東合作** → 有巢氏房屋 宜蘭黎明國小店
 - 🧹 清潔服務 → 赫頌家事管理 LINE **@138hvfmq**
 - 🍱 宜蘭市訂便當（3 顆以上外送）→ 悟饕便當 泰山店
-- 🛋️ 房子想給人包租代管 → 來信聊
+- 🛋️ 房子想給人包租代管 → LINE @812ibtir
 - 🛠️ 開源工具客製化 → LINE **@812ibtir**
 
 <div align="center"><img src="assets/namecard.jpg" width="420" alt="名片"></div>
