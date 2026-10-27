@@ -84,6 +84,7 @@
 | 🏪 **店家營運中樞（通用版）**<br><sub>`tw-service-ops`</sub> | 預約制、派人服務的店都能用：客人線上選項目與時段、自動報價、派人、手機打卡回報、帳單與人員薪資一鍵結算 | [免登入試玩](https://biz.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-service-ops) |
 | 🧹 **到府清潔接單派工**<br><sub>`tw-dispatch-kit`</sub> | 自家清潔團隊每天在用的那套：線上估價、排班派工、清潔前後照片、月結對帳 | [免登入試玩](https://clean.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-dispatch-kit) |
 | 🏋️ **健身房會員關係系統**<br><sub>`tw-gym-members`</sub> | 教練請假自動找代課、只通知常上那堂課的會員；久沒來的會員自動關懷；器材報修 | [線上試玩](https://fitness.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-gym-members) |
+| 💇 **美業預約與會員系統**<br><sub>`tw-beauty-booking`</sub> | 美髮、美甲、美睫、美容：依設計師與服務時長排預約、請假自動改約、補色補睫回訪提醒、儲值套票、設計師抽成月結 | [線上試玩](https://beauty.zengzhisui.com/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-beauty-booking) |
 | 👥 **員工＋股東系統**<br><sub>`tw-shop-staff`</sub> | 小店手機打卡、**依勞基法算薪**、記帳核銷、股東帳務網站，10 種行業實測過 | [原始碼](https://github.com/Larryveryhandsome/tw-shop-staff) |
 | 💬 **小店 LINE 客服**<br><sub>`tw-line-faq-bot`</sub> | FAQ 自動回，答不出來推按鈕卡給老闆點一下就回，可選 Claude 補答 | [原始碼](https://github.com/Larryveryhandsome/tw-line-faq-bot) |
 | 🛰️ **品牌社群雷達**<br><sub>`tw-social-radar`</sub> | 巡邏 Threads 上的相關貼文、產生回覆草稿，一律人工審核才發 | [原始碼](https://github.com/Larryveryhandsome/tw-social-radar) |
