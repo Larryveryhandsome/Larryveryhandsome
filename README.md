@@ -112,6 +112,7 @@
 
 | 工具 | 解決什麼問題 | 連結 |
 |---|---|---|
+| 🧠 **小店老闆的 AI 技能包**<br><sub>`tw-business-skills`</sub> | 裝進 Claude 就能用的 8 個技能：勞基法計薪排班檢核、法律紅旗檢查、房仲單據、會議紀錄整理、現金流試算等（法律類原則上僅供參考，請洽專業人士） | [原始碼](https://github.com/Larryveryhandsome/tw-business-skills) |
 | 🎨 **油漆色號對照**<br><sub>`qicai-paint`</sub> | 跨品牌油漆色號對照：「這個顏色在別家叫什麼？」 | [線上試用](https://larryveryhandsome.github.io/qicai-paint/) ・ [原始碼](https://github.com/Larryveryhandsome/qicai-paint) |
 | 📋 **進度彙報產生器**<br><sub>`tw-progress-report`</sub> | 待辦、計畫、客戶追蹤自動遮名，一鍵產生 LINE 文字版 | [線上試用](https://larryveryhandsome.github.io/tw-progress-report/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-progress-report) |
 | 📄 **PDF 轉圖片**<br><sub>`tw-pdf2jpg`</sub> | 全部在瀏覽器處理，合約謄本不用丟到別人網站 | [線上使用](https://larryveryhandsome.github.io/tw-pdf2jpg/) ・ [原始碼](https://github.com/Larryveryhandsome/tw-pdf2jpg) |
