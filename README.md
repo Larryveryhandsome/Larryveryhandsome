@@ -8,7 +8,7 @@
 
 **宜蘭最不正經、但很會做生意的房仲店長**
 
-<a href="https://lin.ee/pdYGARu"><img src="https://img.shields.io/badge/LINE-%40812ibtir-06C755?logo=line&logoColor=white" alt="LINE @812ibtir"></a>
+<a href="https://line.me/ti/p/xzHT2IywOM"><img src="https://img.shields.io/badge/LINE-%E6%9E%97%E5%85%B6%E8%A1%9E%200928--880--392-06C755?logo=line&logoColor=white" alt="LINE 林其衞 0928-880-392"></a>
 <img src="https://img.shields.io/badge/%E5%9F%BA%E5%9C%B0-%E5%AE%9C%E8%98%AD-16A34A" alt="基地：宜蘭">
 <img src="https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F-%E5%85%A8%E9%9D%A0%E8%87%AA%E5%AD%B8-F97316" alt="程式：全靠自學">
 <img src="https://img.shields.io/badge/%E4%B8%BB%E5%AD%90-Apple-8B5CF6" alt="主子：Apple">
@@ -39,7 +39,7 @@
 **🏠 有巢氏房屋 宜蘭黎明國小加盟店**<br>
 📣 **招募店長、股東合作中！**<br>
 想在宜蘭做房仲、想帶店，或想一起投資經營的夥伴，歡迎來聊。店裡的客戶、物件、行程都有自己寫的 LINE 機器人＋中控台幫忙，不用一個人扛所有雜事。<br>
-👉 LINE：[**@812ibtir**](https://lin.ee/pdYGARu)
+👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)
 </td>
 <td width="50%" valign="top">
 <img src="assets/heson.jpg" alt="HESON" width="160">
@@ -63,20 +63,20 @@
 
 **🛋️ 包租代管**<br>
 房東把房子交給我們打理，房子佈置得溫馨好住，讓租客住得安心、房東省心。服務範圍與費用 LINE 聊。<br>
-👉 LINE：[**@812ibtir**](https://lin.ee/pdYGARu)
+👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-**💡 留白事務所**　網頁設計、遠端房仲助理、AI 落地。幫在地店家做網站，也幫房仲把雜事交給 AI。下面的開源工具都可以客製化 → LINE **@812ibtir**（[加好友](https://lin.ee/pdYGARu)）
+**💡 留白事務所**　網頁設計、遠端房仲助理、AI 落地。幫在地店家做網站，也幫房仲把雜事交給 AI。下面的開源工具都可以客製化 → LINE **林其衞（0928-880-392）**（[加好友](https://line.me/ti/p/xzHT2IywOM)）
 </td>
 </tr>
 </table>
 
 ## 🔧 我做的東西
 
-全部都先在自己的店裡用過，再整理成任何人都能用的開源版本（不含任何店家或客戶資料）。需要改成你們的版本 → LINE **@812ibtir**
+全部都先在自己的店裡用過，再整理成任何人都能用的開源版本（不含任何店家或客戶資料）。需要改成你們的版本 → LINE **林其衞（0928-880-392）**
 
 ### 🏢 給店家用的營運系統
 
@@ -169,12 +169,12 @@
 
 ## 🤝 找我
 
-- 💬 **LINE**：[**@812ibtir**](https://lin.ee/pdYGARu)（留白事務所）
+- 💬 **LINE**：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)（留白事務所）
 - 🐛 用我的開源專案遇到問題 → 到該專案開 Issue
 - 🏠 想在宜蘭買房、賣房，或想**當店長／股東合作** → 有巢氏房屋 宜蘭黎明國小店
 - 🧹 清潔服務 → 赫頌家事管理 LINE **@138hvfmq**
 - 🍱 宜蘭市訂便當（3 顆以上外送）→ 悟饕便當 泰山店
-- 🛋️ 房子想給人包租代管 → LINE @812ibtir
-- 🛠️ 開源工具客製化 → LINE **@812ibtir**
+- 🛋️ 房子想給人包租代管 → LINE 林其衞（0928-880-392）
+- 🛠️ 開源工具客製化 → LINE **林其衞（0928-880-392）**
 
 <div align="center"><img src="assets/namecard.jpg" width="420" alt="名片"></div>
