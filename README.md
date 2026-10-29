@@ -39,7 +39,7 @@
 **🏠 有巢氏房屋 宜蘭黎明國小加盟店**<br>
 📣 **招募店長、股東合作中！**<br>
 想在宜蘭做房仲、想帶店，或想一起投資經營的夥伴，歡迎來聊。店裡的客戶、物件、行程都有自己寫的 LINE 機器人＋中控台幫忙，不用一個人扛所有雜事。<br>
-👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)
+👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)・📞 0928-880-392
 </td>
 <td width="50%" valign="top">
 <img src="assets/heson.jpg" alt="HESON" width="160">
@@ -63,7 +63,7 @@
 
 **🛋️ 包租代管**<br>
 房東把房子交給我們打理，房子佈置得溫馨好住，讓租客住得安心、房東省心。服務範圍與費用 LINE 聊。<br>
-👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)
+👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)・📞 0928-880-392
 </td>
 </tr>
 <tr>
@@ -169,7 +169,8 @@
 
 ## 🤝 找我
 
-- 💬 **LINE**：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)（留白事務所）
+- 💬 **LINE**：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)
+- 📞 **電話**：0928-880-392
 - 🐛 用我的開源專案遇到問題 → 到該專案開 Issue
 - 🏠 想在宜蘭買房、賣房，或想**當店長／股東合作** → 有巢氏房屋 宜蘭黎明國小店
 - 🧹 清潔服務 → 赫頌家事管理 LINE **@138hvfmq**
