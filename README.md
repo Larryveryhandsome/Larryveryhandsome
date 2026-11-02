@@ -4,13 +4,17 @@
 
 # 林其衞 Larry
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=700&size=24&pause=1400&color=F97316&center=true&vCenter=true&width=640&lines=%E4%B8%80%E8%87%89%E6%AD%A3%E7%B6%93%EF%BC%8C%E6%BB%BF%E8%85%A6%E6%80%AA%E9%BB%9E%E5%AD%90%E3%80%82;%E7%99%BD%E5%A4%A9%E8%B3%A3%E6%88%BF%EF%BC%8C%E6%99%9A%E4%B8%8A%E5%AF%AB%E7%A8%8B%E5%BC%8F%E3%80%82;%E8%AE%93+AI+%E5%B9%AB%E5%B0%8F%E5%BA%97%E9%A1%A7%E5%BA%97%E3%80%82" alt="一臉正經，滿腦怪點子。白天賣房，晚上寫程式。讓 AI 幫小店顧店。">
+**全員大逃跑!!!其衞創業中**
 
-**宜蘭最不正經、但很會做生意的房仲店長**
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=700&size=24&pause=1400&color=C4983A&center=true&vCenter=true&width=640&lines=%E4%B8%80%E8%87%89%E6%AD%A3%E7%B6%93%EF%BC%8C%E6%BB%BF%E8%85%A6%E6%80%AA%E9%BB%9E%E5%AD%90%E3%80%82;%E5%B7%A5%E5%85%B7%E9%83%BD%E6%98%AF%E7%94%A8+Token+%E6%85%A2%E6%85%A2%E7%A3%A8%E5%87%BA%E4%BE%86%E7%9A%84%E3%80%82;%E8%AE%93+AI+%E5%B9%AB%E5%B0%8F%E5%BA%97%E9%A1%A7%E5%BA%97%E3%80%82" alt="一臉正經，滿腦怪點子。 工具都是用 Token 慢慢磨出來的。 讓 AI 幫小店顧店。">
+
+**AI自動化落地磨人其衞**
+
+**工具都是用 Token 慢慢磨出來的**
 
 <a href="https://line.me/ti/p/xzHT2IywOM"><img src="https://img.shields.io/badge/LINE-%E6%9E%97%E5%85%B6%E8%A1%9E%200928--880--392-06C755?logo=line&logoColor=white" alt="LINE 林其衞 0928-880-392"></a>
-<img src="https://img.shields.io/badge/%E5%9F%BA%E5%9C%B0-%E5%AE%9C%E8%98%AD-16A34A" alt="基地：宜蘭">
-<img src="https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F-%E5%85%A8%E9%9D%A0%E8%87%AA%E5%AD%B8-F97316" alt="程式：全靠自學">
+<a href="https://qiwei.zengzhisui.com/"><img src="https://img.shields.io/badge/%E5%80%8B%E4%BA%BA%E4%B8%BB%E9%A0%81-qiwei.zengzhisui.com-C4983A" alt="個人主頁 qiwei.zengzhisui.com"></a>
+<img src="https://img.shields.io/badge/%E7%A8%8B%E5%BC%8F-%E5%85%A8%E9%9D%A0%E8%87%AA%E5%AD%B8-C4983A" alt="程式：全靠自學">
 <img src="https://img.shields.io/badge/%E4%B8%BB%E5%AD%90-Apple-8B5CF6" alt="主子：Apple">
 
 </div>
@@ -21,12 +25,11 @@
 
 | | |
 |---|---|
-| 🧑‍💼 **職業** | 創業者：房仲店長（有巢氏房屋 宜蘭黎明國小加盟店）、悟饕便當泰山店老闆、留白事務所總經理 |
+| 🧑‍💼 **職業** | 創業者：佳慶不動產有限公司負責人（有巢氏房屋 宜蘭黎明國小加盟店）、悟饕便當泰山店經營者、留白創研有限公司總經理 |
 | 💻 **技能** | 自學工程師：店裡用的系統都自己寫 |
 | 🧠 **天賦** | 看到重複的事就忍不住寫成程式 |
 | 🏍️ **坐騎** | 重機 |
 | 🐈 **主子** | Apple（虎斑貓；我負責賺罐罐） |
-| 🗺️ **主城** | 宜蘭 |
 | 💬 **口頭禪** | 「這個可以自動化吧？」 |
 
 ## 🤝 我的事業（歡迎合作）
@@ -36,7 +39,7 @@
 <td width="50%" valign="top">
 <img src="assets/youchao-liming.jpg" alt="有巢黎明">
 
-**🏠 有巢氏房屋 宜蘭黎明國小加盟店**<br>
+**🏠 有巢氏房屋 宜蘭黎明國小加盟店**（佳慶不動產有限公司，負責人：林其衞）<br>
 📣 **招募店長、股東合作中！**<br>
 想在宜蘭做房仲、想帶店，或想一起投資經營的夥伴，歡迎來聊。店裡的客戶、物件、行程都有自己寫的 LINE 機器人＋中控台幫忙，不用一個人扛所有雜事。<br>
 👉 LINE：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)・📞 0928-880-392
@@ -44,7 +47,7 @@
 <td width="50%" valign="top">
 <img src="assets/heson.jpg" alt="HESON" width="160">
 
-**🧹 HESON 赫頌家事管理｜全台清潔服務**<br>
+**🧹 HESON 赫頌家事管理｜全台清潔服務**（自由島股份有限公司，負責人：黃詩晴）<br>
 居家清潔（單次／定期）、大掃除與細清、裝潢後細清、搬家前後清潔、店面／辦公室清潔、垃圾清收，冰箱、窗簾、冷氣濾網、抽油煙機、除塵蟎、收納整理等都能加購。<br>
 拍照就能線上估價，正式報價單、清潔前後照片、LINE 一對一通知，夥伴都經過面試與良民證查核。<br>
 👉 [線上估價／預約](https://heson.zengzhisui.com/) ・ 官方 LINE：[**@138hvfmq**](https://line.me/R/ti/p/@138hvfmq)
@@ -69,7 +72,7 @@
 <tr>
 <td colspan="2" valign="top">
 
-**💡 留白事務所**　網頁設計、遠端房仲助理、AI 落地。幫在地店家做網站，也幫房仲把雜事交給 AI。下面的開源工具都可以客製化 → LINE **林其衞（0928-880-392）**（[加好友](https://line.me/ti/p/xzHT2IywOM)）
+**💡 留白事務所**（留白創研有限公司旗下品牌，負責人：陳品旭；林其衞任總經理）　網頁設計、遠端房仲助理、AI 落地。幫在地店家做網站，也幫房仲把雜事交給 AI。下面的開源工具都可以客製化 → LINE **林其衞（0928-880-392）**（[加好友](https://line.me/ti/p/xzHT2IywOM)）
 </td>
 </tr>
 </table>
@@ -150,7 +153,7 @@
 - [ ] 🏍️ **杜卡迪 Diavel V4**
 - [x] 🐈 **被主子 Apple 收編**（已達成）
 
-靠賣房子、做系統、經營悟饕和赫頌一步一步來。哪天打勾了，會回來更新這一頁。
+靠做系統、經營事業，一步一步來。哪天打勾了，會回來更新這一頁。
 
 <br clear="right">
 
@@ -169,6 +172,7 @@
 
 ## 🤝 找我
 
+- 🌐 **個人主頁**：[qiwei.zengzhisui.com](https://qiwei.zengzhisui.com/)
 - 💬 **LINE**：[**林其衞**](https://line.me/ti/p/xzHT2IywOM)
 - 📞 **電話**：0928-880-392
 - 🐛 用我的開源專案遇到問題 → 到該專案開 Issue
